@@ -1,0 +1,9 @@
+{
+	"collectCoverage": true,
+	"coverageReporters": ["html"],
+	"coverageThreshold": {
+		"global": {
+			"lines": 95
+		}
+	}
+}
